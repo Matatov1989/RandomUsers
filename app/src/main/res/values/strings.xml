@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RandomUsers</string>
+    <string name="pleaseWait">Please wait.</string>
+    <string name="fullNameExample">Full name is Yura Matatov</string>
+    <string name="fullName">Full name is %1$s %2$s</string>
+    <string name="daysToNextBirthdayExample">There are 100 days left until your next birthday.</string>
+    <string name="daysToNextBirthday">There are %1$d days left until your next birthday.</string>
+    <string name="noEmailAppFound">No email app found.</string>
+    <string name="strUpdateList">Update list.</string>
+    <string name="titleUsers">Users</string>
+    <string name="sort">Sort</string>
+    <string name="sortMaxAge">by max age</string>
+    <string name="sortMinAge">by min age</string>
+    <string name="strInternetNotIsAvailable">Internet is not available.</string>
+    <string name="strError">Error: %1$s</string>
+</resources>
